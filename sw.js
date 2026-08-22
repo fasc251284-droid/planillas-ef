@@ -1,5 +1,5 @@
 /* Cascarón en caché: la app abre sin conexión; los datos van a Supabase y a localStorage */
-const CACHE = "actef-v3";
+const CACHE = "actef-v5";
 const BASICOS = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
