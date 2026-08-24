@@ -1,15 +1,16 @@
 {
+  "id": "/planillas-ef/",
   "name": "Actitudes EF - Evaluación Actitudinal",
   "short_name": "Actitudes EF",
   "description": "Evaluación actitudinal de Educación Física, 1° a 8° básico",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/planillas-ef/",
+  "scope": "/planillas-ef/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#f4f8fa",
   "theme_color": "#175f85",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+    { "src": "/planillas-ef/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/planillas-ef/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
   ]
 }
