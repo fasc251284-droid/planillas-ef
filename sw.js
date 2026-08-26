@@ -1,6 +1,6 @@
 /* Service worker de Actitudes EF.
    Sirve solo su propia carpeta: así no interfiere con las otras apps del mismo dominio. */
-const CACHE = "actef-planillas-v10";
+const CACHE = "actef-planillas-v11";
 const BASE = new URL("./", self.location).pathname;           // /planillas-ef/
 const BASICOS = [BASE, BASE + "index.html", BASE + "manifest.json",
                  BASE + "icon-192.png", BASE + "icon-512.png", BASE + "apple-touch-icon.png"];
